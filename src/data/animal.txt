@@ -1,0 +1,4 @@
+catel,bulldog,5,Rex,alb,20.2
+catel,husky,4,Tomi,alb,32.7
+pisica,maidaneza,2,Hazel,gri,5.1
+pisica,sfinx,8,Luna,negru,4.8
